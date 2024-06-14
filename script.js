@@ -1,6 +1,6 @@
 const messages = [
     "You're my baby, You always lighten my days",
-    "Your smile brightens my day, Your beauty is ",
+    "Your smile brightens my day, Your beauty is immeasurable.",
     "Your love is like a gentle breeze.",
     "You make my heart race, Walang makakapantay sayo.",
     "With you, life is always in full bloom. "
